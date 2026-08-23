@@ -42,12 +42,13 @@ button {
 
 .row {
   width: 100%;
+  max-width: 1280px;
   margin: 0 auto;
 }
 
 .row__narrow {
   width: 100%;
-  max-width: 1280px;
+  max-width: 1024px;
   margin: 0 auto;
 }
 
@@ -116,7 +117,6 @@ p {
 
 nav {
   display: flex;
-  font-size: 16px;
   padding: 32px 0 0;
 }
 
